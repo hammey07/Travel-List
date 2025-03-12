@@ -1,8 +1,7 @@
-import { use, useState } from "react";
+import { useState } from "react";
 import Logo from "./Components/Logo";
 import Form from "./Components/Form";
 import Stats from "./Components/Stats";
-import Item from "./Components/Item";
 import PackingList from "./Components/PackingList";
 
 export default function App() {
