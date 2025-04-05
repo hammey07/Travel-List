@@ -1,8 +1,6 @@
 #####
 
-This project can be accessed at https://hamtravels.netlify.app/
-
-https://hamtravels.netlify.app/
+# DEMO URL: https://hamtravels.netlify.app/
 
 ####
 
